@@ -1,0 +1,1 @@
+# QurySet_manager
